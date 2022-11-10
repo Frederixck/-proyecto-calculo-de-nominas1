@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\primer laboratorio\calculo de nomina formularios 1\bin\Debug\calculo de nomina formularios 1.exe.config
+C:\Users\Usuario\Desktop\primer laboratorio\calculo de nomina formularios 1\bin\Debug\calculo de nomina formularios 1.exe
+C:\Users\Usuario\Desktop\primer laboratorio\calculo de nomina formularios 1\bin\Debug\calculo de nomina formularios 1.pdb
+C:\Users\Usuario\Desktop\primer laboratorio\calculo de nomina formularios 1\obj\Debug\calculo de nomina formularios 1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\primer laboratorio\calculo de nomina formularios 1\obj\Debug\calculo de nomina formularios 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\primer laboratorio\calculo de nomina formularios 1\obj\Debug\calculo_de_nomina_formularios_1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\primer laboratorio\calculo de nomina formularios 1\obj\Debug\calculo de nomina formularios 1.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\primer laboratorio\calculo de nomina formularios 1\obj\Debug\calculo de nomina formularios 1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\primer laboratorio\calculo de nomina formularios 1\obj\Debug\calculo de nomina formularios 1.exe
+C:\Users\Usuario\Desktop\primer laboratorio\calculo de nomina formularios 1\obj\Debug\calculo de nomina formularios 1.pdb
+C:\Users\Usuario\Desktop\primer laboratorio\calculo de nomina formularios 1\obj\Debug\calculo_de_nomina_formularios_1.Form3Mantenimiento_Ingreso_y_Modificación_de_Empleado.resources
+C:\Users\Usuario\Desktop\primer laboratorio\calculo de nomina formularios 1\obj\Debug\calculo_de_nomina_formularios_1.Form2ingresodeplanilla.resources
+C:\Users\Usuario\Desktop\primer laboratorio\calculo de nomina formularios 1\obj\Debug\calculo_de_nomina_formularios_1.Form1Menu.resources
+C:\Users\Usuario\Desktop\primer laboratorio\calculo de nomina formularios 1\obj\Debug\calculo_de_nomina_formularios_1.Form4.resources
